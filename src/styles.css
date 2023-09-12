@@ -44,13 +44,14 @@ h1 {
   font-weight: 500;
 }
 p {
-  margin-top: 14px;
+  margin-top: 10px;
   padding: 17px;
   font-size: 18px;
   max-width: 781px;
+  line-height: 1.4;
 }
 footer i {
-  color: #fb7185;
+  color: #2dd4bf;
 }
 
 @media screen and (max-width: 320px) {
